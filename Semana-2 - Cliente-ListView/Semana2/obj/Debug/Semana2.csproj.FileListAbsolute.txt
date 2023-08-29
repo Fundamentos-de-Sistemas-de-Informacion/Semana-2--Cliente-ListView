@@ -1,0 +1,30 @@
+C:\Users\Alumnos\source\repos\Semana2\bin\Debug\Semana2.exe.config
+C:\Users\Alumnos\source\repos\Semana2\bin\Debug\Semana2.exe
+C:\Users\Alumnos\source\repos\Semana2\bin\Debug\Semana2.pdb
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.Form1.resources
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.exe
+C:\Users\Alumnos\source\repos\Semana2\obj\Debug\Semana2.pdb
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.Form1.resources
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.exe
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\obj\Debug\Semana2.pdb
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\bin\Debug\Semana2.exe.config
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\bin\Debug\Semana2.exe
+C:\Users\Usuario\Documents\GitHub\S.emana-2-Fundamentos\Semana2\bin\Debug\Semana2.pdb
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\bin\Debug\Semana2.exe.config
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\bin\Debug\Semana2.exe
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\bin\Debug\Semana2.pdb
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.Form1.resources
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.exe
+C:\Users\Usuario\Documents\GitHub\Semana-2 - Cliente-ListView\Semana2\obj\Debug\Semana2.pdb
